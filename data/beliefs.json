@@ -1,0 +1,158 @@
+[
+  {
+    "name": "growth_mindset",
+    "description": "Belief that growth and success are achieved through personal effort."
+  },
+  {
+    "name": "effort_driven_success",
+    "description": "Belief that consistent effort leads to success."
+  },
+  {
+    "name": "learning_capability",
+    "description": "Belief in the ability to learn new skills and improve."
+  },
+  {
+    "name": "valued_contributions",
+    "description": "Belief that one's contributions are recognized and appreciated."
+  },
+  {
+    "name": "growth_through_feedback",
+    "description": "Belief that constructive feedback fosters improvement."
+  },
+  {
+    "name": "adaptability",
+    "description": "Belief in one's capacity to adapt to changes and challenges."
+  },
+  {
+    "name": "collaborative_success",
+    "description": "Belief that teamwork enhances performance and outcomes."
+  },
+  {
+    "name": "consistency_for_achievement",
+    "description": "Belief that consistent effort is key to achieving goals."
+  },
+  {
+    "name": "initiative_for_growth",
+    "description": "Belief that taking initiative drives personal and professional growth."
+  },
+  {
+    "name": "obstacle_resilience",
+    "description": "Belief in the ability to overcome challenges with persistence."
+  },
+  {
+    "name": "external_dependency",
+    "description": "Belief that success depends on external factors beyond one's control."
+  },
+  {
+    "name": "skill_deficiency",
+    "description": "Belief in a lack of skills required for success."
+  },
+  {
+    "name": "unrecognized_contributions",
+    "description": "Belief that one's efforts are not valued or acknowledged."
+  },
+  {
+    "name": "mistake_identification",
+    "description": "Belief that mistakes define one's competence."
+  },
+  {
+    "name": "help_avoidance",
+    "description": "Belief that seeking help is a sign of weakness."
+  },
+  {
+    "name": "promotion_favoritism",
+    "description": "Belief that promotions are based on favoritism rather than merit."
+  },
+  {
+    "name": "resource_inadequacy",
+    "description": "Belief that resources available are insufficient for success."
+  },
+  {
+    "name": "failure_expectation",
+    "description": "Belief that failure is inevitable regardless of effort."
+  },
+  {
+    "name": "growth_neglect",
+    "description": "Belief that personal or professional growth is not supported."
+  },
+  {
+    "name": "comparison_syndrome",
+    "description": "Belief that others are inherently more capable or successful."
+  },
+  {
+    "name": "support_seeking",
+    "description": "Belief in the importance of seeking help for mental health."
+  },
+  {
+    "name": "self_care_priority",
+    "description": "Belief that self-care is essential for well-being."
+  },
+  {
+    "name": "resilience",
+    "description": "Belief in one's ability to recover and thrive despite challenges."
+  },
+  {
+    "name": "mindfulness_practice",
+    "description": "Belief that mindfulness improves emotional well-being and focus."
+  },
+  {
+    "name": "work_life_balance",
+    "description": "Belief that balancing work and personal life is achievable."
+  },
+  {
+    "name": "stress_management",
+    "description": "Belief in the ability to manage stress effectively."
+  },
+  {
+    "name": "rest_importance",
+    "description": "Belief that rest and relaxation are vital for productivity."
+  },
+  {
+    "name": "health_performance_link",
+    "description": "Belief that mental health directly impacts performance."
+  },
+  {
+    "name": "expressive_communication",
+    "description": "Belief that expressing emotions strengthens relationships."
+  },
+  {
+    "name": "restorative_breaks",
+    "description": "Belief that taking breaks enhances focus and well-being."
+  },
+  {
+    "name": "stress_imbalance",
+    "description": "Belief that stress is unmanageable and dominates life."
+  },
+  {
+    "name": "over_prioritization_of_work",
+    "description": "Belief that work must come before personal needs."
+  },
+  {
+    "name": "undeserving_mental_health",
+    "description": "Belief that one does not deserve mental health support."
+  },
+  {
+    "name": "chronic_stress_belief",
+    "description": "Belief that stress is unavoidable and persistent."
+  },
+  {
+    "name": "health_career_conflict",
+    "description": "Belief that focusing on health could harm career prospects."
+  },
+  {
+    "name": "judgment_fear",
+    "description": "Belief that vulnerability leads to judgment or criticism."
+  },
+  {
+    "name": "comparison_stress",
+    "description": "Belief that others manage challenges better than oneself."
+  },
+  {
+    "name": "break_avoidance",
+    "description": "Belief that taking breaks is unproductive."
+  },
+  {
+    "name": "stagnant_mental_health",
+    "description": "Belief that mental health cannot be improved or changed."
+  }
+]

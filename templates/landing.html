@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang=""en">
+
+<head>
+    <meta charset="utf-8"> 
+    <title> 
+        {{title}}
+    </title>
+</head>
+
+<body>
+    <h1>
+        Welcome to the {{title}}
+    </h1>
+
+    <h2>
+        Click the links below to view all employees' graphs for a specific summary
+    </h2>
+    <a href="{{graph1url}}">
+            Mental Health Scores
+    </a>
+    <br>
+    <a href = "{{graph2url}}">
+            Special Belief Word Clouds
+    </a>
+
+    <h2>
+        Click a name below to view a summary page for a particular employee 
+    </h2>
+    {% for employee in employees %}
+        <a href="{{employee.url}}">
+            {{employee.name}}
+        </a>
+        <br>
+    {% endfor %}
+</body>
+
+</html>
