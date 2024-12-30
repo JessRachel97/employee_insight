@@ -8,7 +8,7 @@ import os
 app = Flask(__name__)
 
 # where to find things
-our_base = "https://employee-insight-nb1vs7yia-jessrachel97s-projects.vercel.app/"
+our_base = "https://employee-insight.vercel.app/"
 other_base = our_base
 
 # home page of site, redirects to other pages
@@ -116,4 +116,4 @@ def get_employee_data():
 
 # run the app
 if __name__ == "__main__":
-    app.run()
+    app.run(port=443)
