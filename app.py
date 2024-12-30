@@ -8,16 +8,16 @@ import os
 app = Flask(__name__)
 
 # where to find things
-our_base = ''
-other_base  = ''
+our_base = request.url + '/'
+other_base = our_base + '/'
 
 # home page of site, redirects to other pages
 @app.route('/')
 def home():
     global our_base
     global other_base
-    our_base = request.url
-    other_base = our_base
+    our_base = request.url + '/'
+    other_base = our_base + '/'
     # dat = json.loads(all_employees())
     dat = json.loads(requests.get(other_base+"all_employees").content)
     for d in dat:
