@@ -43,16 +43,11 @@ def get_sentiment_clouds():
 # return all data for a specific employee
 @app.route('/get_employee_data')
 def get_employee_data():
-    name = request.args.get('name')
+    id = request.args.get('id')
     out = {}
-    with open('data/employees.json', 'r') as f:
-        emp_dat = json.load(f)
-    id = ''
-    for x in emp_dat:
-        if x["name"] == name:
-            id = x["id"]
-            break 
-    print(id)
+    with open("output/" + id + ".csv") as f:
+        name = f.readline()
+        out["name"] = name
     with open('graphs/' + id + '.png', 'rb') as f:
         encoded = base64.b64encode(f.read())
         out["ment_image"] = encoded.decode()
